@@ -14,11 +14,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" alt="Spring Boot"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" alt="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="50" alt="Java"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="50" alt="Spring Boot"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Maven/Maven-original.svg" width="50" alt="Maven"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Gradle/Gradle-original.svg" width="50" alt="Gradle"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Git/Git-original.svg" width="50" alt="Git"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/Github/Github-original.svg" width="50" alt="Github"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" alt="Docker"/> 
 </div>      
 
