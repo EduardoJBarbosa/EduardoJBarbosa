@@ -1,7 +1,7 @@
 
-### Olá Eu sou o Eduardo Barbosa 🖐🏽
+### Olá, Eu sou Eduardo Barbosa!
 
-**Junior Software Engineer Java**
+**Bem vindo ao meu perfil do Github 🖐🏽**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-barbosa-82a844165/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardo_barbossa_/)
