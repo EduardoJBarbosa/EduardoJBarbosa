@@ -1,4 +1,4 @@
-# Olá, me chamo Eduardo!
+# Olá, me chamo Eduardo Barbosa!
 ## Bem vindo ao meu perfil do Github 👋
 
 - 🧑 Tenho 28 anos.
