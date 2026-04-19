@@ -29,7 +29,7 @@
 <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:eduardo_jbarbosa@outlook.com">
 <a href="mailto:eduardo_jbarbosa@outlook.com">
-  <img src="https://img.shields.io/badge/-Email-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
+<img src="https://img.shields.io/badge/-Email-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
 </a>
 <a href="https://www.linkedin.com/in/eduardo-j-barbosa" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
