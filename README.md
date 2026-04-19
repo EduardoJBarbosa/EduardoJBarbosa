@@ -24,7 +24,7 @@
 ## Contatos:
 
 <div>
-<a href="https://instagram.com/eduardo_barbossa" target="_blank">
+<a href="https://instagram.com/eduardo_barbossa_" target="_blank">
 <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:eduardo_jbarbosa@outlook.com">
 <a href="mailto:eduardo_jbarbosa@outlook.com">
